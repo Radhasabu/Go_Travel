@@ -4,7 +4,7 @@ import Home1 from './components/Home1';
 // import Home from './components/Home'
 import Discover from './components/Discover';
 function App() {
-  return (
+return (
     <Router>
       <Navbar/>
       <Routes>
